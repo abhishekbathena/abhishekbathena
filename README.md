@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-abhishekbathena.vercel.app/?user=abhishekbathena&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-abhishek.vercel.app/?user=abhishek&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhishekbathena"/></a>
     
