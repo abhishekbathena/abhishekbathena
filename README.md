@@ -78,6 +78,11 @@ Here are some ideas to get you started:
 
 </div>
 
+# My GitHub Contributions
+
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abhishekbathena&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+
+<!-- Additional optional badges or information can be added here -->
 
 
 
