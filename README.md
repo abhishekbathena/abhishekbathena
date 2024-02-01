@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 # My GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/{YOUR_USERNAME}/YOUR_REPO_NAME/graphs/contributors?theme=radical" alt="GitHub Contributions">
+  <img src="https://github.com/abhishekbathena/tunehub/graphs/contributors?theme=radical" alt="GitHub Contributions">
 </p>
 
 
