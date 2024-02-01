@@ -80,9 +80,10 @@ Here are some ideas to get you started:
 
 # My GitHub Contributions
 
-![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=abhishekbathena&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+<p align="center">
+  <img src="https://github.com/{YOUR_USERNAME}/YOUR_REPO_NAME/graphs/contributors?theme=radical" alt="GitHub Contributions">
+</p>
 
-<!-- Additional optional badges or information can be added here -->
 
 
 
