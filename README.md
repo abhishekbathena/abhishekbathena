@@ -60,14 +60,6 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhishekbathena/abhishekbathena/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -80,9 +72,7 @@ Here are some ideas to get you started:
 
 # My GitHub Contributions
 
-<p align="center">
-  <img src="https://github.com/abhishekbathena/tunehub/graphs/contributors?theme=radical" alt="GitHub Contributions">
-</p>
+
 
 
 
