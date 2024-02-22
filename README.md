@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
