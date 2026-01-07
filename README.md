@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working in **Msgkart**
  
- 🌱 I’m currently learning **Java, Tailwind, SpringBoot,MongoDB**
+ 🌱 I’m currently learning **NextJs ,MongoDB**
 
-💬 Ask me about **Node.js, React, Firebase, Sql... or anything [here](https://github.com/abhishekbathena/abhishekbathena/issues)**
+💬 Ask me about **AngularJs, React, React Native, Firebase, NodeJs, Sql... or anything [here](https://github.com/abhishekbathena/abhishekbathena/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
